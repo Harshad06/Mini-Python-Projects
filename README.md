@@ -1,5 +1,4 @@
-Read My Blog
-https://towardsdatascience.com/10-python-mini-projects-that-everyone-should-build-with-code-769c6f1af0c4
+Mini Python Projects for beginners -
 
 1. Dice roll simulator
 2. Guess the number game
